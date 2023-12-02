@@ -1,5 +1,5 @@
 import modules from "./style.module.css";
-import TVShowListItem from "../TVShowListItem/TVShowListItem"
+import TVShowListItem from "../TvShowListItem/TvShowListItem"
 
 export function TvShowList({tvShowList, onClickItem}) {
    return <>
